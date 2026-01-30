@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://fullstack-real-estate-portal.onrender.com";
 
 // --- THEME COLORS ---
 const COLORS = {
