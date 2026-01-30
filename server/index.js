@@ -40,4 +40,5 @@ app.get('/api/contacts', async (req, res) => res.json(await Contact.find()));
 app.post('/api/subscribe', async (req, res) => res.json(await new Subscriber(req.body).save()));
 app.get('/api/subscribers', async (req, res) => res.json(await Subscriber.find()));
 
-app.listen(5000, () => console.log("Server running on port 5000"));
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
