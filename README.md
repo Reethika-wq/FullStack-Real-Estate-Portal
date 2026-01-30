@@ -1,5 +1,6 @@
 # Full-Stack Real Estate Management System
-
+ 🌐 Live Application
+**Link:** [https://magical-elf-82734f.netlify.app/](https://magical-elf-82734f.netlify.app/)
 A comprehensive full-stack application developed as a placement task. This project includes a high-converting landing page for customers and a powerful admin dashboard for managing content, inquiries, and subscriptions.
 
 ---
