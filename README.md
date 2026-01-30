@@ -85,8 +85,8 @@ A comprehensive full-stack application developed as a placement task. This proje
 
 ## 🌐 Deployment
 
-*   **Backend**: Hosted on [Insert Platform Name, e.g., Render/Heroku]
-*   **Frontend**: Hosted on [Insert Platform Name, e.g., Vercel/Netlify]
+*   **Backend**: Hosted on Render
+*   **Frontend**: Hosted on Netlify
 *   **Database**: Cloud Sandbox on MongoDB Atlas
 
 ---
